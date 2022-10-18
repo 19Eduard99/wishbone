@@ -344,18 +344,18 @@ footer .logo_div .footer_div{
     display: flex;
     justify-content: space-between;
 }
-.top img:nth-child(1){
-    padding: 64px 96px 128px 40px;
+.top a:nth-child(1){
+    margin: 64px 96px 128px 40px;
 }
-.top img:nth-child(2){
-    padding: 40px 0 96px 0;
+.top a:nth-child(2){
+    margin: 40px 0 96px 0;
 }
-.bottom img:nth-child(1){
-    padding-bottom: 48px;
-    padding-left: 40px;
+.bottom a:nth-child(1){
+    margin-bottom: 48px;
+    margin-left: 40px;
 }
-.bottom img:nth-child(2){
-    padding-bottom: 40px;
+.bottom a:nth-child(2){
+    margin-bottom: 40px;
 }
 /*customers*/
 /*team_section*/
@@ -394,7 +394,7 @@ footer .logo_div .footer_div{
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    padding-left: 25px;
+    margin-left: 25px;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.4px;
@@ -456,7 +456,7 @@ footer .logo_div .footer_div{
 .Aria_Stone{
     margin-bottom: 36px;
 }
-.team_section h3{
+.team_name h3{
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -464,7 +464,7 @@ footer .logo_div .footer_div{
     line-height: 26px;
     color: #1B1A1A;
 }
-.team_section{
+.team_name p{
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -472,4 +472,5 @@ footer .logo_div .footer_div{
     line-height: 14px;
     color: #645C55;
 }
+
 /*team_section*/
