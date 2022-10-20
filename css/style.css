@@ -30,7 +30,8 @@ header{
     color: #1B1A1A;
 }
 .m_div nav ul li:nth-child(6) a{
-    padding: 11px 20px; background: #1B1A1A;border-radius: 14px;
+    padding: 11px 20px; background: #1B1A1A;
+    border-radius: 14px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -102,6 +103,64 @@ main section .log_div{
     background-size: cover
 }
 /*main*/
+
+/*section our_firm*/
+.our_firm{
+    background: #E5E5E5;
+}
+.main_our_firm{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 100px 0;
+    max-width: 768px;
+}
+.main_our_firm h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #403E3B;   
+}
+.Senior{
+    max-width: 501px;
+}
+.Senior p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #403E3B;
+    margin-bottom: 10px;
+}
+.Stephen{
+    padding-top: 8px;
+    display: flex;
+    align-items: center;
+}
+.Stephen span{
+    margin-left: 30px;
+}
+.Stephen span h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #1B1A1A;    
+}
+.Stephen span p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #645C55;    
+}
+/*section2 our_firm*/
+
 
 /*section2*/
 .art_sec{
@@ -331,31 +390,19 @@ footer .logo_div .footer_div{
     line-height: 24px;
     color: #ECE7E4;
 }
-.logo_client{
-    margin-right: 184px;
+.my_flex_client a:nth-child(1){
+    margin-right: 96px;
+}
+.my_flex_client a:nth-child(3){
+    margin-right: 96px;
+}
+.my_flex_client{
+    margin-right: 144px;
+    display: flex;
     max-width: 432px;
-    /*display: flex;*/
-}
-.top{
-    display: flex;
-    justify-content: space-between;
-}
-.bottom{
-    display: flex;
-    justify-content: space-between;
-}
-.top a:nth-child(1){
-    margin: 64px 96px 128px 40px;
-}
-.top a:nth-child(2){
-    margin: 40px 0 96px 0;
-}
-.bottom a:nth-child(1){
-    margin-bottom: 48px;
-    margin-left: 40px;
-}
-.bottom a:nth-child(2){
-    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 /*customers*/
 /*team_section*/
@@ -403,21 +450,23 @@ footer .logo_div .footer_div{
 }
 .centr_div{
     margin-left: 37px;
-    max-width: 773px;
+    max-width: 633px;
+}
+.my-flex-container{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.my-flex-block{
+    max-width: 280px;
+    display: flex;
+    align-items: center;
+
 }
 .margin_img{
+    margin: 8px 0;
     margin-right: 30px;
-}
-.Stephen_Collier{
-    display: flex;
-    align-items: center;
-    max-width: 280px;
-}
-.Ferris_Wonder{
-    display: flex;
-    align-items: center;
-    max-width: 280px;
 }
 
 .Nolan_Peters{
@@ -441,21 +490,6 @@ footer .logo_div .footer_div{
     max-width: 231px;
 }
 
-.Stephen_Collier{
-    margin-bottom: 36px;
-}
-.Ferris_Wonder{
-    margin-bottom: 36px;
-}
-.Niko_Ferry{
-    margin-bottom: 36px;
-}
-.Nolan_Peters{
-    margin-bottom: 36px;
-}
-.Aria_Stone{
-    margin-bottom: 36px;
-}
 .team_name h3{
     font-family: 'Poppins';
     font-style: normal;
@@ -463,6 +497,7 @@ footer .logo_div .footer_div{
     font-size: 17px;
     line-height: 26px;
     color: #1B1A1A;
+    margin-right: 26px;
 }
 .team_name p{
     font-family: 'Poppins';
@@ -471,6 +506,107 @@ footer .logo_div .footer_div{
     font-size: 14px;
     line-height: 14px;
     color: #645C55;
+    margin-right: 35px;
 }
-
+.margin_h{
+    margin-right: 26px;
+}
+.margin_p{
+    margin-right: 35px;
+}
 /*team_section*/
+/*section*/
+.reeding{
+    min-height: 600px;
+    background-image: url("../img/reactangle.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 75px;
+}
+.description{
+    max-width: 285px;   
+}
+.reeding .description h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.reeding .description p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+/*section*/
+/*section*/
+.reeding2{
+    min-height: 600px;
+    background-image: url("../img/rectangle2.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 75px;
+}
+.description{
+    max-width: 285px;   
+}
+.reeding2 .description h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.reeding2 .description p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+/*section*/
+.reeding3{
+    min-height: 600px;
+    background-image: url("../img/rectangle3.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 75px;
+}
+.description{
+    max-width: 285px;   
+}
+.reeding3 .description h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.reeding3 .description p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+/*section*/
