@@ -1,3 +1,47 @@
+@media only screen and (max-width: 1200px){
+	main section div p{
+		margin-left: 10px;
+	}
+	main section div h3 {
+    	margin-left: 8px;
+	}	
+	.main_our_firm h4{
+		margin-left: 8px;
+	}
+	.projects article{
+		margin-left: 8px;
+	}	
+
+	.left_div{
+		margin-left: 8px;
+	}
+	footer .logo_div{
+		margin-left: 8px;
+		margin-right: 8px;
+	}
+	.sec_section div{
+		margin-left: 8px;
+		margin-right: 8px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		margin-left: 8px;
+	}
+	.projects h3{
+		text-align: center;
+	}
+	.projects p{
+		text-align: center;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+	.prior_clients{
+		margin-left: 8px;
+	}
+	main section div h1{
+		margin-left: 8px;
+	}
+}
 @media only screen and (max-width: 1024px){
 	main section div p{
 		margin-left: 10px;
