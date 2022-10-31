@@ -1,0 +1,1245 @@
+@media only screen and (max-width: 992px){
+	main section div h1{
+		font-size: 65px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 10px;
+	}
+	main section {
+    	padding: 85px 0 85px;
+
+	}
+	main section div h3 {
+    	margin-left: 5px;
+	}	
+	main section div p{
+		max-width: 470px;
+	}
+
+	.main_our_firm h4{
+		margin-left: 5px;
+	}
+
+	.m_customers{
+		justify-content: center;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+
+
+	.projects h3{
+		text-align: center;
+	}
+	.projects p{
+		text-align: center;
+	}
+	.projects article{
+		margin: 5px;
+	}	
+
+	.left_div{
+		margin: 5px;
+	}
+
+
+	.sec_section{
+		padding: 85px 0 85px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+	    line-height: 30px;
+	}
+	.sec_section div:nth-child(2){
+		margin-top: 20px;
+		justify-content: center;
+	}	
+
+
+
+
+	footer .logo_div{
+		margin: 5px;
+	}	
+}
+@media only screen and (max-width: 834px){
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.m_div nav ul li {
+    margin-left: 10px;
+	}
+	.m_div nav ul li a{
+		font-size: 16px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		padding: 5px 20px;
+		font-size: 16px;
+	}
+/*	main section .log_div {
+    display: none;
+	}*/
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    	padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    	margin-left: 5px;
+	}	
+	main section div p{
+		max-width: 412px;
+	}
+
+	.main_our_firm h4{
+		margin-left: 5px;
+	}
+
+
+	.m_customers{
+		display: flex;
+		padding: 10px 0 60px;
+	}
+	.prior_clients h2{
+		margin-left: 5px;
+	}
+	.prior_clients h4{
+		margin-left: 5px;
+	}
+	
+	.prior_clients p{
+		margin-left: 5px;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	 margin-right: 20px;
+	}
+	.art_sec .m_ddiv .d_art article{
+		margin-top: 15px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+
+
+
+	.projects h3{
+		text-align: center;
+	}
+	.projects p{
+		text-align: center;
+	}
+	.projects article{
+		margin: 5px;
+	}
+
+
+	.left_div a{
+		display: none;
+	}
+	.team_section .main_team_div{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.left_div{
+		margin-left: 41px;
+	}
+
+
+
+	.sec_section{
+		padding: 85px 0 85px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+	    line-height: 30px;
+	}
+	.sec_section div:nth-child(2){
+		margin-top: 20px;
+		justify-content: center;
+	}	
+
+
+
+
+	footer .logo_div{
+		margin: 5px;
+	}
+}
+@media only screen and (max-width: 820px){
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.m_div nav ul li {
+    margin-left: 10px;
+	}
+	.m_div nav ul li a{
+		font-size: 16px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		padding: 5px 20px;
+		font-size: 16px;
+	}
+/*	main section .log_div {
+    display: none;
+	}*/
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    	padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    	margin-left: 5px;
+	}	
+	main section div p{
+		max-width: 370px;
+	}
+
+	.main_our_firm h4{
+		margin-left: 5px;
+	}
+
+
+	.m_customers{
+		display: flex;
+		padding: 10px 0 60px;
+	}
+	.prior_clients h2{
+		margin-left: 5px;
+	}
+	.prior_clients h4{
+		text-align: center;
+	}
+	
+	.prior_clients p{
+		margin-left: 5px;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	 margin-right: 20px;
+	}
+	.art_sec .m_ddiv .d_art article{
+		margin-top: 15px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+
+
+
+	.projects h3{
+		text-align: center;
+	}
+	.projects p{
+		text-align: center;
+	}
+	.projects article{
+		margin: 5px;
+	}
+
+
+	.left_div a{
+		display: none;
+	}
+	.team_section .main_team_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+
+
+	.sec_section{
+		padding: 85px 0 85px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+	    line-height: 30px;
+	}
+	.sec_section div:nth-child(2){
+		margin-top: 20px;
+		justify-content: center;
+	}	
+
+
+
+
+	footer .logo_div{
+		margin: 5px;
+	}
+}
+
+@media only screen and (max-width: 800px){
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.m_div nav ul li {
+    margin-left: 7px;
+	}
+	.m_div nav ul li a{
+		font-size: 12px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		padding: 5px 20px;
+		font-size: 9px;
+	}
+/*	main section .log_div {
+    display: none;
+	}*/
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    	padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    	margin-left: 5px;
+	}	
+	main section div p{
+		max-width: 370px;
+	}
+
+	.main_our_firm h4{
+		margin-left: 5px;
+	}
+
+
+	.m_customers{
+		display: flex;
+		padding: 10px 0 60px;
+	}
+	.prior_clients h2{
+		margin-left: 5px;
+	}
+	.prior_clients h4{
+		text-align: center;
+	}
+	
+	.prior_clients p{
+		margin-left: 5px;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	 margin-right: 20px;
+	}
+	.art_sec .m_ddiv .d_art article{
+		margin-top: 15px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+
+
+
+	.projects h3{
+		text-align: center;
+	}
+	.projects p{
+		text-align: center;
+	}
+	.projects article{
+		margin: 5px;
+	}
+
+
+	.left_div a{
+		display: none;
+	}
+	.team_section .main_team_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+
+
+	.sec_section{
+		padding: 85px 0 85px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+	    line-height: 30px;
+	}
+	.sec_section div:nth-child(2){
+		margin-top: 20px;
+		justify-content: center;
+	}	
+
+
+
+
+	footer .logo_div{
+		margin: 5px;
+	}
+}
+@media only screen and (max-width: 768px){
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.m_div nav ul li {
+    margin-left: 7px;
+	}
+	.m_div nav ul li a{
+		font-size: 12px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		padding: 5px 20px;
+		font-size: 9px;
+	}
+/*	main section .log_div {
+    display: none;
+	}*/
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    	padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    	margin-left: 5px;
+	}	
+	main section div p{
+		max-width: 370px;
+	}
+
+
+	.main_our_firm h4{
+		margin-left: 5px;
+	}
+
+
+	.m_customers{
+		display: flex;
+		padding: 10px 0 60px;
+	}
+	.prior_clients h2{
+		margin-left: 5px;
+	}
+	.prior_clients h4{
+		text-align: center;
+	}
+	
+	.prior_clients p{
+		margin-left: 5px;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	 margin-right: 20px;
+	}
+	.art_sec .m_ddiv .d_art article{
+		margin-top: 15px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}		
+
+
+	.projects h3{
+		text-align: center;
+	}
+	.projects p{
+		text-align: center;
+	}
+	.projects article{
+		margin: 5px;
+	}
+
+
+	.left_div a{
+		display: none;
+	}
+	.team_section .main_team_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+
+
+	.sec_section{
+		padding: 85px 0 85px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+	    line-height: 30px;
+	}
+	.sec_section div:nth-child(2){
+		margin-top: 20px;
+		justify-content: center;
+	}	
+
+
+
+
+	footer .logo_div{
+		margin: 5px;
+	}
+}
+@media only screen and (max-width: 428px){
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.m_div nav {
+		padding-top: 10px;
+	}
+	.m_div nav ul li {
+    margin-left: 7px;
+	}
+	.m_div nav ul li a{
+		font-size: 12px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		padding: 5px 20px;
+		font-size: 9px;
+	}
+	main section .log_div {
+    display: none;
+	}
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    	padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    	text-align: center;
+	}
+	main section div p{
+		max-width: 370px;
+	}
+
+
+	.main_our_firm {
+		display: flex;
+		flex-wrap: wrap;
+		 padding: 55px 0;
+		}
+	.main_our_firm h4{
+		margin: 9px;
+		}
+	.Senior p{
+		margin: 9px;
+		}
+	.art_sec .m_ddiv .d_art{
+		display: flex;
+		flex-wrap: wrap;
+		}
+
+
+	.reeding {
+		min-height: 550px;
+		padding-right: 0;
+		}
+	.reeding2{
+		min-height: 550px;
+		padding-right: 0;
+	}
+	.reeding3{
+		min-height: 450px;
+		padding-left: 13px;
+	}	
+
+
+
+	.art_sec .m_ddiv .d_art{
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.art_sec .m_ddiv .d_art{
+		justify-content: center;
+	}
+	.m_customers{
+		display: flex;
+		flex-wrap: wrap;
+		padding: 10px 0 60px;
+	}
+	.prior_clients h4{
+		text-align: center;
+	}
+	.prior_clients h2{
+		text-align: center;
+	}
+	.prior_clients p{
+		margin-left: 5px;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	 margin-right: 20px;
+	}
+	.art_sec .m_ddiv .d_art article{
+		margin-top: 15px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}	
+
+
+
+
+	.projects h3{
+		text-align: center;
+	}
+	.projects{
+		padding: 55px 0 55px;
+	}
+	.prior_clients p{
+		text-align: center;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	margin-right: 20px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+	.d-flex{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.projects p{
+		margin-left: 5px;
+		text-align: center;
+	}
+	.left_div h2{
+		text-align: center;
+	}
+	.left_div p{
+		text-align: center;
+	}
+	.team_section .main_team_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.team_section .main_team_div{
+		padding: 55px 0;
+	}
+	.left_div a{
+		display: none;
+	}
+
+
+	.left_div h2{
+		text-align: center;
+	}
+	.left_div p{
+		margin-left: 5px;
+	}
+	.sec_section{
+		padding: 85px 0 85px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+	    line-height: 30px;
+	}
+	.sec_section div:nth-child(2){
+		margin-top: 20px;
+		justify-content: center;
+	}
+
+
+
+	footer .logo_div .footer_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.footer_div p{
+		text-align: center;
+	}
+	.ul_div ul li{
+		margin-right: 12px;
+		margin-left: 12px;
+	}
+	footer .logo_div{
+		display: flex;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	}
+
+}
+
+@media only screen and (max-width: 390px) {
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.m_div nav {
+		padding-top: 10px;
+	}
+	.m_div nav ul li {
+    margin-left: 6px;
+	}
+	.m_div nav ul li a{
+		font-size: 11px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		padding: 4px 18px;
+		font-size: 9px;
+	}
+	main section .log_div {
+    display: none;
+	}
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    	padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    	text-align: center;
+	}
+	main section div p{
+		max-width: 370px;
+	}
+
+
+
+	.main_our_firm {
+		display: flex;
+		flex-wrap: wrap;
+		 padding: 55px 0;
+		}
+	.main_our_firm h4{
+		margin-left: 5px;
+		}
+	.Senior p{
+		margin-left: 5px;
+		}
+	.art_sec .m_ddiv .d_art{
+		display: flex;
+		flex-wrap: wrap;
+		}
+
+
+	.reeding {
+		min-height: 550px;
+		padding-right: 0;
+		}
+	.reeding2{
+		min-height: 550px;
+		padding-right: 0;
+	}
+	.reeding3{
+		min-height: 450px;
+		padding-left: 13px;
+	}	
+
+
+	.art_sec .m_ddiv .d_art{
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.art_sec .m_ddiv .d_art{
+		justify-content: center;
+	}
+	.m_customers{
+		display: flex;
+		flex-wrap: wrap;
+		padding: 10px 0 60px;
+	}
+	.prior_clients h4{
+		text-align: center;
+	}
+	.prior_clients h2{
+		text-align: center;
+	}
+	.prior_clients p{
+		margin-left: 5px;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	 margin-right: 20px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+
+
+
+	.projects h3{
+		text-align: center;
+	}
+	.projects{
+		padding: 55px 0 55px;
+	}
+	.prior_clients p{
+		text-align: center;
+	}
+	.my_flex_client a:nth-child(1) {
+	    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+	   	margin-right: 20px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+	.d-flex{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.projects p{
+		margin-left: 5px;
+	}
+	.left_div h2{
+		text-align: center;
+	}
+	.left_div p{
+		text-align: center;
+	}
+	.team_section .main_team_div{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.team_section .main_team_div{
+		padding: 55px 0;
+	}
+	.left_div a{
+		display: none;
+	}
+
+
+
+	.left_div h2{
+		text-align: center;
+	}
+	.left_div p{
+		margin-left: 5px;
+	}
+	.sec_section{
+		padding: 85px 0 85px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+	    line-height: 30px;
+	}
+	.sec_section div:nth-child(2){
+		margin-top: 20px;
+	}
+
+
+	footer .logo_div .footer_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.footer_div p{
+		text-align: center;
+	}
+	.ul_div ul li{
+		margin-right: 12px;
+		margin-left: 12px;
+	}
+	footer .logo_div{
+		display: flex;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.m_div nav {
+		padding-top: 10px;
+	}
+	.m_div nav ul li {
+    margin-left: 11px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		display: none;
+	}
+	main section .log_div {
+    display: none;
+	}
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    text-align: center;
+	}
+	main section div p{
+		max-width: 370px;
+	}
+
+
+	.main_our_firm {
+		    display: flex;
+		    flex-wrap: wrap;
+		    padding: 55px 0;
+		}
+		.main_our_firm h4{
+			margin-left: 5px;
+		}
+		.Senior p{
+			margin-left: 5px;
+		}
+		.art_sec .m_ddiv .d_art{
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.reeding {
+			min-height: 500px;
+			padding-right: 0;
+		}
+		.reeding2{
+			min-height: 500px;
+			padding-right: 0;
+		}
+		.reeding3{
+			min-height: 400px;
+			padding-left: 13px;
+		}
+		.art_sec .m_ddiv .d_art{
+			display: flex;
+		    justify-content: center;
+		    flex-wrap: wrap;
+		}
+			.art_sec .m_ddiv .d_art{
+			justify-content: center;
+		}
+		.m_customers{
+			display: flex;
+			flex-wrap: wrap;
+			padding: 10px 0 60px;
+		}
+		.prior_clients h4{
+			text-align: center;
+		}
+		.prior_clients h2{
+			text-align: center;
+		}
+		.prior_clients p{
+			margin-left: 5px;
+		}
+		.my_flex_client a:nth-child(1) {
+	    	margin-right: 25px;
+		}
+		.my_flex_client a:nth-child(3) {
+	   	 	margin-right: 20px;
+		}
+		.my_flex_client{
+			margin-right: 0;
+		}
+		.projects h3{
+			text-align: center;
+		}
+		.projects{
+			padding: 55px 0 55px;
+		}
+		.prior_clients p{
+			text-align: center;
+		}
+		.my_flex_client a:nth-child(1) {
+	    	margin-right: 25px;
+		}
+		.my_flex_client a:nth-child(3) {
+	   		margin-right: 20px;
+		}
+		.my_flex_client{
+			margin-right: 0;
+		}
+		.d-flex{
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.projects p{
+			margin-left: 5px;
+		}
+		.team_section .main_team_div{
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.team_section .main_team_div{
+			padding: 55px 0;
+		}
+		.left_div h2{
+			text-align: center;
+		}
+		.left_div p{
+			margin-left: 5px;
+		}
+		.sec_section{
+		padding: 55px 0 55px 0;
+			}
+		.sec_section div a{
+			margin-left: 10px;
+			margin-right: 10px;
+	}
+		.sec_section div:nth-child(2) h1 p{
+			text-align: center;
+			font-size: 25px;
+	    	line-height: 30px;
+		}
+	footer .logo_div .footer_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.footer_div p{
+		text-align: center;
+	}
+	.ul_div ul li{
+		margin-right: 12px;
+		margin-left: 12px;
+	}
+	footer .logo_div{
+		display: flex;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+
+	.m_div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.m_div nav {
+		padding-top: 6px;
+	}
+	.m_div nav ul li {
+    margin-left: 8px;
+	}
+	.m_div nav ul li:nth-child(6) a{
+		display: none;
+	}
+	main section .log_div {
+    display: none;
+	}
+	main section div h1{
+		font-size: 45px;
+	    margin-left: 5px;
+	}
+	main section div p{
+		margin-left: 5px;
+	}
+	main section {
+    padding: 55px 0 55px;
+
+	}
+	main section div h3 {
+    text-align: center;
+	}
+
+
+	.main_our_firm {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 55px 0;
+	}
+	.main_our_firm h4{
+		margin-left: 5px;
+	}
+	.Senior p{
+		margin-left: 5px;
+	}
+	.art_sec .m_ddiv .d_art{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.reeding {
+		min-height: 400px;
+		padding-right: 0;
+	}
+	.reeding2{
+		min-height: 400px;
+		padding-right: 0;
+	}
+	.reeding3{
+		min-height: 400px;
+		padding-left: 13px;
+	}
+	.art_sec .m_ddiv .d_art{
+		justify-content: center;
+	}
+	.m_customers{
+		display: flex;
+		flex-wrap: wrap;
+		padding: 10px 0 60px;
+	}
+	.prior_clients h4{
+		text-align: center;
+	}
+	.prior_clients h2{
+		text-align: center;
+	}
+	.prior_clients p{
+		margin-left: 5px;
+	}
+	.my_flex_client a:nth-child(1) {
+    margin-right: 25px;
+	}
+	.my_flex_client a:nth-child(3) {
+    margin-right: 20px;
+	}
+	.my_flex_client{
+		margin-right: 0;
+	}
+	.projects h3{
+		text-align: center;
+	}
+	.projects{
+		padding: 55px 0 55px;
+	}
+	.d-flex{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.projects p{
+		margin-left: 5px;
+	}
+	.team_section .main_team_div{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.team_section .main_team_div{
+		padding: 55px 0;
+	}
+	.left_div h2{
+		text-align: center;
+	}
+	.left_div p{
+		margin-left: 5px;
+	}
+	.sec_section{
+		padding: 55px 0 55px 0;
+	}
+	.sec_section div a{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.sec_section div:nth-child(2) h1 p{
+		text-align: center;
+		font-size: 25px;
+    	line-height: 30px;
+	}
+	footer .logo_div .footer_div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.footer_div p{
+		text-align: center;
+	}
+	.ul_div ul li{
+		margin-right: 12px;
+		margin-left: 12px;
+	}
+	footer .logo_div{
+		display: flex;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	}
+}
